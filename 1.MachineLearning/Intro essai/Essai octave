@@ -1,0 +1,67 @@
+# Created by Octave 4.0.0, Sun Jun 25 15:21:44 2017 Paris, Madrid (heure d’été) <unknown@DESKTOP-IQAPIKB>
+# name: A
+# type: scalar
+5
+
+
+# name: B
+# type: scalar
+4
+
+
+# name: C
+# type: scalar
+20
+
+
+# name: ans
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 4 9
+ 16 25 36
+ 49 64 81
+
+
+# name: column_vect
+# type: matrix
+# rows: 4
+# columns: 1
+ 1
+ 2
+ 3
+ 4
+
+
+# name: m
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 2 3
+ 4 5 6
+ 7 8 9
+
+
+# name: matrix
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 2 3
+ 4 5 6
+ 7 8 9
+
+
+# name: row_vect
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+
+# name: text
+# type: string
+# elements: 1
+# length: 11
+Hello world
+
+
